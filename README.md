@@ -10,7 +10,7 @@
   保存方法　: mypece (very slowly)
   賞味期限　: ∞∞∞
 
-# 💬 Status
+# 💬 My thoughts
 
 エンジニアになれるかな...
 #缶詰学習 #ツナ缶
